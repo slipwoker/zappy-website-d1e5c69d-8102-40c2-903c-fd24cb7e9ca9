@@ -140,11 +140,9 @@ View Lookbook
 
 ## Featured Products
 
+No featured products yet. Check out all our products!
 
-Loading products...
-
-
-View All Products →
+View All Pr
 
 
 
@@ -1720,6 +1718,19 @@ Filters
 Loading products...
 
 
+
+
+
+
+
+
+
+
+
+# Your Heading Here
+
+
+### Your Subheading Here
 
 
 
