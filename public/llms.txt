@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app
+https://example.com
 Discover cutting-edge streetwear and luxury essentials at GRVMZ /KLōTHING/ BRAND. Shop our fashion boutique online for exclusive drops, premium fabrics, and bold designs that define modern style. Start exploring now.
 
 ### Brand Story
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/brand-story
+https://example.com/brand-story
 Dive into the raw vision fueling GRVMZ /KLōTHING/ BRAND. From underground roots to a premier fashion boutique online, learn how our designs challenge the ordinary and empower your style journey.
 
 ### Lookbook
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/lookbook
+https://example.com/lookbook
 Flip through the GRVMZ /KLōTHING/ BRAND lookbook for fresh outfit inspiration. See how our nike tech fleece full zip hoodie and seasonal staples come alive with attitude. Steal the look today.
 
 ### Contact
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/contact
+https://example.com/contact
 Ready to connect with the team behind your favorite fashion boutique online? Reach out for styling advice, order support, or collab opportunities at GRVMZ /KLōTHING/ BRAND. We respond fast.
 
 ### Products
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/products
+https://example.com/products
 Our Products - GRVMZ /KLōTHING/ BRAND
 
 ### Cart
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - GRVMZ /KLōTHING/ BRAND
 
 ### Category
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - GRVMZ /KLōTHING/ BRAND
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/sitemap.xml
-- Robots: https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/llms-full.txt
-- Products (JSON): https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://grvmz-kl-thing-brand-d1e5c69d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
